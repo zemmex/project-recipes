@@ -1,0 +1,38 @@
+.addfont{
+    font-family:"Times New Roman",sans-serif;
+    color:pink;
+}
+h1,h2,h3{
+    color:yellow;
+    font-weight:bolder;
+    background-color:#0000ff;
+    text-align:center;
+}
+body{
+    background-color:gray;
+}
+p{
+    font-size:33px;
+    font-weight:bold;
+    background-color:forestgreen;
+    border-left-width:7px;
+    border-left-style:solid;
+    border-left-color:black;
+    margin-left:20px;
+}
+div.cook h3{
+    background-color:pink;
+    color:blue;
+}
+div.cook li{
+    color:skyblue;
+    border-width:0px;
+    background-color:black;
+    border-top-width:5px;
+    border-left-width:10px;
+    border-style:solid;
+    border-color:red;
+}
+h3,h1,h4,h2,,p,li{
+    width:360px;
+}
